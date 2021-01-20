@@ -58,7 +58,7 @@ The command git clone respository is to have a local workspace of the repository
 
 Using the hint in the repository, the code that solve the problem is shown in the following image
 
-<img  src="https://github.com/JuanMunozD/workshop1/blob/master/imagenes/solutionEOF.PNG">
+<img  src="https://github.com/JuanMunozD/workshop1/blob/master/imagenes/SolutionEOF.PNG">
 
 ### Using pull command
 
