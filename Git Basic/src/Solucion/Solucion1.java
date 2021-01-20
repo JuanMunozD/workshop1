@@ -1,7 +1,7 @@
 package Solucion;
 import java.util.Scanner;
 
-public class Solucion {
+public class Solucion1 {
 
     static int Caracteres = 256; 
 
